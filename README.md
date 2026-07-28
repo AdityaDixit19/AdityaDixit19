@@ -15,27 +15,6 @@
 
 ---
 
-### 🧠 Who I Am
-
-```typescript
-const aditya = {
-  title: "Full Stack Developer",
-  stack: {
-    languages: ["Java", "JavaScript", "SQL"],
-    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS", "Framer Motion"],
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
-    devops: ["Git", "GitHub", "Docker", "Jenkins"],
-  },
-  launchedProjects: [
-    "AI-Powered Interview Preparation Platform",
-    "Refokus — Interactive Animated Web Application",
-  ],
-  certifications: [
-    "DevOps Certification — Containerization, CI/CD & Cloud-Native Tooling (GLA University, 2025)",
-  ],
-  status: "B.Tech CSE @ GLA University, Mathura (Expected 2027)",
-  openTo: ["Full-Time Roles", "Internships", "Collaborations"],
-};
 ```
 
 ---
