@@ -21,28 +21,7 @@
 <tr>
 <td width="60%" valign="top">
 
-```typescript
-// aditya.ts
-class Developer {
-  name        = "Aditya Dixit";
-  title       = "Full Stack Developer";
-  status      = "B.Tech CSE, GLA University (Expected 2027)";
-
-  stack = {
-    languages : ["Java", "JavaScript", "SQL"],
-    frontend  : ["React.js", "Tailwind CSS", "Framer Motion"],
-    backend   : ["Node.js", "Express.js", "JWT Auth", "REST APIs"],
-    devops    : ["Git", "GitHub", "Docker", "Jenkins"],
-  };
-
-  launchedProjects = [
-    "AI-Powered Interview Preparation Platform",
-    "Refokus — Interactive Animated Web App",
-  ];
-
-  currentlyLearning = ["Spring Boot", "Backend Architecture", "System Design"];
-  openTo            = ["Full-Time Roles", "Internships", "Collaborations"];
-}
+``typescript
 ```
 
 </td>
