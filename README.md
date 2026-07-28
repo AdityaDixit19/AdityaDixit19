@@ -1,182 +1,144 @@
-<!-- ============================================= -->
-<!--              GITHUB PROFILE README            -->
-<!-- ============================================= -->
-
 <div align="center">
 
-# 👋 Hey there, I'm **Aditya Dixit**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Aditya%20Dixit&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22)
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Problem+Solver+%7C+Open+Source+Learner;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
-<!-- Light Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EF93C4,50:FF69B4,100:C2185B&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=58">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FCE4EC,50:F8BBD0,100:EF93C4&text=Welcome%20to%20My%20GitHub&fontColor=7B1E5A&fontAlignY=40&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=58">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FCE4EC,50:F8BBD0,100:EF93C4&text=Welcome%20to%20My%20GitHub&fontColor=7B1E5A&fontAlignY=40">
-</picture>
-
-<br><br>
-
-![](https://img.shields.io/github/followers/AdityaDixit19?style=for-the-badge&logo=github&color=FF69B4&labelColor=F8BBD0)
-
-![](https://img.shields.io/github/stars/AdityaDixit19?style=for-the-badge&logo=github&color=FF69B4&labelColor=F8BBD0)
-
-![](https://komarev.com/ghpvc/?username=AdityaDixit19&style=for-the-badge&color=FF69B4)
-
-</div>
-
----
-
-# 💫 About Me
-
-<table>
-<tr>
-
-<td width="65%">
-
-### 🚀 Who Am I?
-
-- 🎓 B.Tech CSE Student
-- 💻 Aspiring **Java Full Stack Developer**
-- 🌱 Currently learning **Spring Boot, Microservices & React**
-- 🔥 Passionate about Backend Development & System Design
-- 📚 Solving DSA problems consistently
-- 🚀 Building production-ready full stack projects
-- 🎯 Goal: Become a Software Engineer at a top product-based company
-
-### 💼 Current Focus
-
-- Java
-- Spring Boot
-- Hibernate
-- React
-- REST APIs
-- SQL
-- Docker
-- Git & GitHub
-
-### 📌 Interests
-
-- Full Stack Development
-- Backend Engineering
-- Cloud
-- Open Source
-- Problem Solving
-
-</td>
-
-<td width="35%" align="center">
-
-<img width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRlYTRwZXV4OHF4aDlwZXVlOGg5aTJ2a2Y4d3JnNXo4dDlmb2E4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,maven,vscode,idea,postman&perline=10"/>
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdityaDixit19&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0d1117"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDixit19&theme=radical&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=FF69B4"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaDixit19&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<!--
-Enable using GitHub Actions.
-
-.github/workflows/snake.yml
-
-uses:
-Platane/snk
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaDixit19/AdityaDixit19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaDixit19/AdityaDixit19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AdityaDixit19/AdityaDixit19/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aditya-dixit-261b01366/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+AI-Powered+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
-<a href="https://leetcode.com/u/AdityaDixit_1618/">
-<img src="https://img.shields.io/badge/LeetCode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=black)
 
-<a href="mailto:AdityaDixit1909@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaDixit19&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/AdityaDixit19?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&labelColor=black)
 
 </div>
 
 ---
 
-# 💖 Quote
+### 🧠 Who I Am
+
+```typescript
+const aditya = {
+  title: "Full Stack Developer",
+  stack: {
+    languages: ["Java", "JavaScript", "SQL"],
+    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS", "Framer Motion"],
+    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
+    devops: ["Git", "GitHub", "Docker", "Jenkins"],
+  },
+  launchedProjects: [
+    "AI-Powered Interview Preparation Platform",
+    "Refokus — Interactive Animated Web Application",
+  ],
+  certifications: [
+    "DevOps Certification — Containerization, CI/CD & Cloud-Native Tooling (GLA University, 2025)",
+  ],
+  status: "B.Tech CSE @ GLA University, Mathura (Expected 2027)",
+  openTo: ["Full-Time Roles", "Internships", "Collaborations"],
+};
+```
+
+---
+
+### 🚀 Featured Projects
+
+#### AI-Powered Interview Preparation Platform
+
+<div align="left">
+  <a href="https://github.com/AdityaDixit19/Interview-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDixit19&repo=Interview-AI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
+</div>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Backend | Node.js, Express.js |
+| Auth | JWT Authentication, Token Blacklisting |
+| AI | Gemini AI (Resume Parsing & Skill-Gap Analysis) |
+| Automation | Puppeteer (ATS-Optimized PDF Generation) |
+| API | REST APIs |
+
+Built a full-stack interview prep platform with secure JWT auth and an AI pipeline that auto-generates tailored interview questions from resumes and job descriptions.
+
+🔗 [Code](https://github.com/AdityaDixit19/Interview-AI)
+
+---
+
+#### Refokus — Interactive Animated Web Application
+
+<div align="left">
+  <a href="https://github.com/AdityaDixit19/refokus-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDixit19&repo=refokus-clone&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
+</div>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js, Tailwind CSS |
+| Animation | Framer Motion, Locomotive Scroll |
+| Build Tool | Vite |
+| Deployment | Vercel |
+
+Pixel-perfect, responsive animated web app inspired by Refokus, featuring scroll-driven animations, parallax effects, and a reusable component library optimized with memoization and lazy loading.
+
+🔗 [Code](https://github.com/AdityaDixit19/refokus-clone)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=java,js,mysql)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,vite)
+
+**Backend & Infra**
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express)
+
+**Dev Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,docker,jenkins)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-> *"Consistency compounds. Small improvements every day build extraordinary careers."*
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaDixit19&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDixit19&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="42%" />
 
+<img src="https://streak-stats.demolab.com?user=AdityaDixit19&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaDixit19&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaDixit19&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" width="95%" />
 </div>
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</div>
-
-<br>
+### 🔗 Connect With Me
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:C2185B,50:FF69B4,100:EF93C4">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FCE4EC,50:F8BBD0,100:EF93C4">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FCE4EC,50:F8BBD0,100:EF93C4"/>
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/aditya-dixit-261b01366/)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:aditya.dixit_cs23@gla.ac.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=black)](https://leetcode.com/u/AdityaDixit_1618/)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=150&section=footer)
